@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <a href="LINK_DO_CATALOGO_DE_DEMONSTRACAO"><strong>Ver catálogo de demonstração</strong></a>
+  <a href="catalogopadrao.netlify.app"><strong>Ver catálogo de demonstração</strong></a>
 </p>
 
 ---
@@ -98,4 +98,4 @@ Em desenvolvimento e buscando os primeiros clientes.
 ## Contato
 
 - Instagram: [@clicapede](https://www.instagram.com/clicapede)
-- LinkedIn: [SEU_LINKEDIN](LINK_DO_SEU_LINKEDIN)
+- LinkedIn: [henryco-meneghetti](https://www.linkedin.com/in/henryco-meneghetti-1659b035b/)
