@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <a href="catalogopadrao.netlify.app"><strong>Ver catálogo de demonstração</strong></a>
+  <a href="https://catalogopadrao.netlify.app"><strong>Ver catálogo de demonstração</strong></a>
 </p>
 
 ---
