@@ -80,7 +80,10 @@ flowchart LR
 - **Uma loja, um repositório:** cada loja tem o próprio repositório e um token de acesso só a ele, guardado apenas no computador do lojista.
 - **Deploy automático:** a cada publicação, a Cloudflare Pages atualiza o site da loja.
 - **Pensado para quem não é técnico:** o dono da loja nunca precisa saber o que é Git, deploy ou JSON.
+## Trechos de código
 
+- [`codigo/publicacao.py`](codigo/publicacao.py): publicação pela API do GitHub, enviando só os arquivos que mudaram
+- [`codigo/carrinho.js`](codigo/carrinho.js): carrinho com quantidade e envio do pedido para o WhatsApp
 ## Tecnologias
 
 | Parte | Tecnologias |
